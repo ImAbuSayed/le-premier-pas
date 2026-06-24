@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-premier-pas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Le Premier Pas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-premier-pas/) |
+| **Get License** | [Request Licensing for Le Premier Pas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-premier-pas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> La nuit commence, le ciel s'habille de noir
+> Baby, tell me what you see, je lis dans ton regard
+> Ton parfum luxury m'enivre, mon cœur bat tout bas
+> Viens plus près de moi, je ferai le premier pas
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
